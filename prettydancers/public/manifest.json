@@ -1,0 +1,55 @@
+{
+  "background_color": "#ffffff",
+  "categories": ["entertainment"],
+  "description": "A fun and interactive game for all ages.",
+  "dir": "ltr",
+  "display_override": ["fullscreen","fullscreen"],
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "logo40.png",
+      "sizes": "40x40",
+      "type": "image/png"
+    }
+  ],
+  "id": "V1.0",
+  "lang": "en",
+  "name": "PWA_Dancers_Test",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "scope": "/",
+  "screenshots": [
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "short_name": "PowerWeb_test",
+  "shortcuts": [
+    {
+      "name": "Play",
+      "short_name": "Play",
+      "url": "/",
+      "icons": [
+        {
+          "src": "logo192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "Orange"
+}
